@@ -8,7 +8,7 @@ public abstract class CutTheFruit {
 	public void twoSlices() {};
 	public void threeSlices() {
 		System.out.println("inside abstract");
-		//Made some change here to test a branch
+		//Made some changes here to test a branch
 		
 	}	
 }
